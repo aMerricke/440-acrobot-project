@@ -1,0 +1,6 @@
+q_table_model/acrobot.pkl
+q_table_model/acrobot-23binedge-old.pkl
+q_table_model/acrobot-15binedge-old.pkl
+dqn_model/acrobot_dqn.ipynb
+baseline_model_milestone/acrobot-baseline-table.pkl
+q_table_model/johnny_code_solution/acrobot.pkl
